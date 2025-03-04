@@ -115,7 +115,7 @@ Reduces Risks – Identifies potential challenges early in the planning phase.
  Higher Productivity – Keeps the team focused and prevents unnecessary delays.
 
 How Gantt Charts Assist in Project Scheduling
-A Gantt chart is a visual project management tool that uses a bar chart format to display tasks, their duration, dependencies, and progress.
+ A Gantt chart is a visual project management tool that uses a bar chart format to display tasks, their duration, dependencies, and progress.
  Provides a Clear Timeline – Shows start and end dates for tasks, making it easy to track progress.
  Helps Identify Dependencies – Displays how tasks relate to each other, ensuring smooth workflow.
  Enhances Deadline Management – Allows teams to plan ahead and adjust schedules as needed.
@@ -123,7 +123,11 @@ A Gantt chart is a visual project management tool that uses a bar chart format t
  Allows for Easy Adjustments – Enables quick rescheduling when unexpected delays occur.
 
  
-## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience? 
+  The software addresses inefficiency, data inaccuracy, poor collaboration, and security risks by automating workflows, ensuring data integrity, enabling seamless team 
+  communication, and strengthening cybersecurity. These problems are significant because they lead to lost productivity, financial losses, misinformed decisions, and 
+  potential data breaches, directly affecting business growth and customer trust.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
