@@ -106,6 +106,22 @@ Facilitates Progress Tracking – Makes monitoring and reporting more structured
 Reduces Risks – Identifies potential challenges early in the planning phase.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+ A well-defined project schedule is essential for ensuring tasks are completed on time, resources are used efficiently, and potential risks are managed effectively. The key benefits include:
+ Improved Time Management – Clearly defines deadlines and milestones, keeping the project on track.
+ Better Resource Allocation – Ensures that people, tools, and budgets are used efficiently.
+ Enhanced Communication – Provides clarity to all stakeholders about progress and expectations.
+ Risk Reduction – Identifies potential bottlenecks early, allowing proactive adjustments.
+ Increased Accountability – Assigns responsibilities clearly, reducing confusion and missed deadlines.
+ Higher Productivity – Keeps the team focused and prevents unnecessary delays.
+
+How Gantt Charts Assist in Project Scheduling
+A Gantt chart is a visual project management tool that uses a bar chart format to display tasks, their duration, dependencies, and progress.
+ Provides a Clear Timeline – Shows start and end dates for tasks, making it easy to track progress.
+ Helps Identify Dependencies – Displays how tasks relate to each other, ensuring smooth workflow.
+ Enhances Deadline Management – Allows teams to plan ahead and adjust schedules as needed.
+ Improves Team Coordination – Keeps all stakeholders aligned with clear visual tracking.
+ Allows for Easy Adjustments – Enables quick rescheduling when unexpected delays occur.
+
  
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
