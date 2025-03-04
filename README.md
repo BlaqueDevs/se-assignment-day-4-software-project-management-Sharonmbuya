@@ -16,7 +16,21 @@ Keep Scope in Check – Say "no" (or "not now") to unnecessary last-minute addit
 Use the Right Tools – Automation, CI/CD pipelines, and testing tools can speed things up.
 Keep the Team Engaged – Encourage collaboration and problem-solving to avoid bottlenecks.
 
-## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?Prevents Overspending – Staying within budget ensures the project remains financially viable.
+Keeps Stakeholders Happy – Clients and investors expect cost efficiency and accountability.
+Ensures Project Completion – Running out of funds mid-project can lead to delays or failure.
+Allows for Better Resource Allocation – Controlled costs mean funds can be used effectively across different needs.
+Maintains Profitability – Especially for software firms, cost efficiency directly impacts margins.
+Strategies to Prevent Budget Overruns
+Define a Clear Budget from the Start – Estimate costs for development, testing, deployment, and maintenance.
+Use Agile Methodology – Small, iterative releases help track spending and adjust early.
+Track Expenses in Real-Time – Use tools like Jira, Trello, or QuickBooks to monitor financial progress.
+Manage Scope Creep – Stick to the original plan; avoid unnecessary features unless budgeted.
+Allocate Resources Wisely – Assign tasks efficiently and avoid unnecessary hiring or expensive tools.
+Use Open-Source & Cost-Effective Tools – Reduce software licensing costs where possible.
+Have a Risk Management Plan – Prepare for unexpected costs with a contingency budget.
+Regular Budget Reviews – Frequent check-ins help catch and correct issues before they escalate.
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
